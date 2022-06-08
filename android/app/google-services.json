@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445514221059",
+    "firebase_url": "https://gezi-uygulamasi-748e4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gezi-uygulamasi-748e4",
+    "storage_bucket": "gezi-uygulamasi-748e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445514221059:android:140b4405fd9f6babfe7036",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445514221059-iacdmbh95tvtarue5kku18ls17v6oag5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE6s2z9j-fRBWvraB80JtAC5jgOpRms9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445514221059-iacdmbh95tvtarue5kku18ls17v6oag5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
