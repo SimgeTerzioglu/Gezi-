@@ -7,7 +7,9 @@ Kullanıcılar kayıt olmadan/giriş yapmadan uygulamayı kullanamazlar.
     * Şifre
    sağlamak zorundadırlar. Aksi takdirde kayıt işlemi gerçekleşmez. Kullanıcılar kayıttan sonra uygulamaya yönlendirilirler. Çıkış yaptıktan sonra tekrardan e-posta ve şifreleri ile giriş yapabilirler.
 İlgili gifler:
-![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/Kayit.gif) 
+
+![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/Kayit.gif)
+
 ![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/giris.gif)
 
 # Kategoriler
@@ -19,8 +21,9 @@ Uygulamada 7 temel kategori ve bir de "Favoriler" bulunur. Bu kategoriler:
  * Marketler
  * İbadet Yerleri
  * Otoparklar
- Şeklindedir. Her Kategoriye tıklandığında ilgili yerler listelenir:
+ şeklindedir. Her Kategoriye tıklandığında ilgili yerler listelenir:
 İlgili gifler:
+
 ![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/Kategoriler.gif)
 
 # Bilgi Ekranları
@@ -63,7 +66,7 @@ Tüm bu işlemlerin yeni bir kullanıcı ile yapılışı ise aşağıdaki gibid
  
  ***
  # Hazırlayanlar:
- * Zehra Akgül - 1190505069
  * Simge Terzioğlu - 1190505072
+ * Zehra Akgül - 1190505069
  * Melike Sağır - 1190505019
  * Aylin Işık - 5190505044
