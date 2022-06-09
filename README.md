@@ -7,8 +7,8 @@ Kullanıcılar kayıt olmadan/giriş yapmadan uygulamayı kullanamazlar.
     * Şifre
    sağlamak zorundadırlar. Aksi takdirde kayıt işlemi gerçekleşmez. Kullanıcılar kayıttan sonra uygulamaya yönlendirilirler. Çıkış yaptıktan sonra tekrardan e-posta ve şifreleri ile giriş yapabilirler.
 İlgili gifler:
-![](kayit)
-![](giris)
+![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/Kayit.gif)
+![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/giris.gif)
 
 # Kategoriler
 Uygulamada 7 temel kategori ve bir de "Favoriler" bulunur. Bu kategoriler:
