@@ -32,12 +32,12 @@ Her kategoriden bir yer seçildiğinde o yer hakkında resim, genel bilgi, ücre
 ![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/yerornekleri.gif)
 
 # Yorum Ve Puanlama
-Kullanıcılar önceki kullanıcıların yorumlarını görebilir, yeni yorumlar ekleyebilir ve 1-5 uzerinden yerleri değerlendirebilirler.
+Kullanıcılar önceki kullanıcıların yorumlarını görebilir, yeni yorumlar ekleyebilir ve 1-5 üzerinden yerleri değerlendirebilirler.
 Örnek olarak yorum ekleme ve yorum görüntüleme şu şekildedir:
 
 ![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/yorum.gif)
 
-Puanlama kısmında kısmında ise kullanıcıların bir önceki yaptığı puanlamalar da değerlendirilir. Örnek olarak Köprülü Kanyon Milli parkını bir kişi daha önceden değerlendirmiş ve 3 puan vermiştir. Kullanıcımız ise 4 puan vererek parkın puanını 3.5'a (3+4/2=3.5) çıkartmıştır. Puan 4'ün altında olduğu için deneme123 kullanıcısının favorilerinde Köprülü Kanyon bulunmamaktadır.
+Puanlama kısmında ise kullanıcıların bir önceki yaptığı puanlamalar da değerlendirilir. Örnek olarak Köprülü Kanyon Milli parkını bir kişi daha önceden değerlendirmiş ve 3 puan vermiştir. Kullanıcımız ise 4 puan vererek parkın puanını 3.5'a (3+4/2=3.5) çıkartmıştır. Puan 4'ün altında olduğu için deneme123 kullanıcısının favorilerinde Köprülü Kanyon bulunmamaktadır.
 
 ![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/dahaoncedenpuanlanm%C4%B1s.gif)
 
@@ -46,7 +46,7 @@ Tüm bu işlemlerin yeni bir kullanıcı ile yapılışı ise aşağıdaki gibid
 ![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/yenikullanicipuanguncellemesiveyorum.gif)
 
  * Uygulamamızın genel akışı yukarıdaki giflerde görüldüğü şekildedir.
- Uygulamamızı yaparken Flutter ve Firebase kullandık. Sqflite yerine Firebase kullanmamızın ana sebebi web üzerinden veritabanımızı rahatlıkla kontrol edebiliyor oluşumuzdur. Ayrıca yerler ile alakalı resim vs. çekmek için website linkini koymamız yeterli oluyor. Herhangi bir verinin yanlış/hatalı/eksik girilmesi ya da uygulama üzerinden düzgün okunamaması durumlarına karşın web üzerinden rahatlıkla veritabanımızı düzenleyip veri ekleme/silme/güncelleme yapabiliyoruz. Bunlar için uzun uzun SQL sorguları yazmamıza gerek kalmıyordu. Biz de tercihimizi Firebase'den yana kullandık. Bunun için basitçe bir Google hesabı açıp Firebase sitesinden veritabanını ayarlayıp uygulamamıza gerekli kütüphaneleri import etmek ve gerekli dosyalarda (pubspec.yaml vs.) eklemeleri yapmak yeterli oldu.
+Uygulamamızı yaparken Flutter ve Firebase kullandık. Sqflite yerine Firebase kullanmamızın ana sebebi web üzerinden veritabanımızı rahatlıkla kontrol edebiliyor oluşumuzdur. Ayrıca yerler ile alakalı resim vs. çekmek için website linkini koymamız yeterli oluyor. Herhangi bir verinin yanlış/hatalı/eksik girilmesi ya da uygulama üzerinden düzgün okunamaması durumlarına karşın web üzerinden rahatlıkla veritabanımızı düzenleyip veri ekleme/silme/güncelleme yapabiliyoruz. Bunlar için uzun uzun SQL sorguları yazmamıza gerek kalmıyordu. Biz de tercihimizi Firebase'den yana kullandık. Bunun için basitçe bir Google hesabı açıp Firebase sitesinden veritabanını ayarlayıp uygulamamıza gerekli kütüphaneleri import etmek ve gerekli dosyalarda (pubspec.yaml vs.) eklemeleri yapmak yeterli oldu.
  
  Uygulamamızda kullandığımız veritabanı ve içeriği de aşağıdaki ekran görüntülerinde olduğu gibidir:
  
