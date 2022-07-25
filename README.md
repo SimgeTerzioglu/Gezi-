@@ -65,6 +65,7 @@ Uygulamamızı yaparken Flutter ve Firebase kullandık. Sqflite yerine Firebase 
  ![](https://github.com/SimgeTerzioglu/Gezi-Uygulamasi/blob/master/firebase_kullan%C4%B1c%C4%B1lar.png)
  
  ***
+ 
  # Hazırlayanlar:
  * Simge Terzioğlu - 1190505072
  * Zehra Akgül - 1190505069
