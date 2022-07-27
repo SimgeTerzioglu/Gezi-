@@ -71,3 +71,4 @@ Uygulamamızı yaparken Flutter ve Firebase kullandık. Sqflite yerine Firebase 
  * Zehra Akgül - 1190505069
  * Melike Sağır - 1190505019
  * Aylin Işık - 5190505044
+
